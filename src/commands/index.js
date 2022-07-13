@@ -4,5 +4,8 @@ module.exports = Composer.compose([
     require('./start'),
     require('./drug'),
     require('./topic'),
-    require('./combo')
+    require('./combo'),
+    require('./breathe'),
+    require('./combochart'),
+    require('./irc')
 ]);
