@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "glob": "^8.0.3",
-    "telegraf": "^4.8.5"
+    "node-fetch": "^3.2.8",
+    "path": "^0.12.7",
+    "telegraf": "^4.8.5",
+    "winston": "^3.8.1"
   }
 }
